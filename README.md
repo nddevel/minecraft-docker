@@ -15,7 +15,7 @@ Before getting started, you need to have Docker and Docker Compose installed on 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/minecraft-server.git
+   git clone https://github.com/nddevel/minecraft-server.git
    cd minecraft-server
 
 2. Run & build that s**t:
@@ -24,3 +24,5 @@ Before getting started, you need to have Docker and Docker Compose installed on 
    docker build -t minecraft-docker .
    sudo docker run -it minecraft-docker
    bash run.sh
+
+*this readme was made via chatgpt™*
