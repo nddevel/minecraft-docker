@@ -1,6 +1,6 @@
 # Dockerized Minecraft Server
 
-Welcome to my Dockerized Minecraft server! This is a simple, personal project I created to run a Minecraft server in a Docker container. While it works and serves its purpose, please note that there are better and more optimized Dockerized Minecraft server solutions out there. This project is just a **janky personal experiment** and is not intended to be a fully polished or production-ready solution.
+Welcome to my Dockerized Minecraft server! This is a simple, personal project I created to run a Minecraft server in a Docker container. please note that there are better and more optimized Dockerized Minecraft server solutions out there. This project is just a **janky personal experiment** and is not intended to be a fully polished or production-ready solution.
 
 ## Features
 - A Minecraft server running inside a Docker container.
