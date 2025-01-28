@@ -24,5 +24,3 @@ Before getting started, you need to have Docker and Docker Compose installed on 
    docker build -t minecraft-docker .
    sudo docker run -it minecraft-docker
    bash run.sh
-
-*this readme was made via chatgpt™*
